@@ -1,9 +1,10 @@
-import "./App.css";
 import { Canvas } from "@react-three/fiber";
 import { Environment, OrbitControls } from "@react-three/drei";
 // import { Cube } from "./models/shapes/Cube.tsx";
 // import Idle from "./models/characters/Girl/Idle.tsx";
 import Woman from "./models/characters/Woman/Sofi.tsx";
+
+import "./App.css";
 
 function App() {
   return (
